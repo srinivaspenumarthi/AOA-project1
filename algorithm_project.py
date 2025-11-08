@@ -4,7 +4,7 @@
 Algorithm Design Project: Greedy & Divide-and-Conquer
 ======================================================
 
-Authors: Alice Johnson, Bob Smith
+Authors: Avighna Yarlagadda, Manikanta Srinivas Penumarthi
 Date: November 2024
 Python: 3.11.4
 
